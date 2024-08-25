@@ -8,7 +8,12 @@
   
 - 📫Você me acha através do e-mail **ti.marianasantos91@gmail.com**
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ramos-2a9209325/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_maridev/)
+<a href="https://www.linkedin.com/in/mariana-ramos-2a9209325/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+</a>
+<a href="https://www.instagram.com/_maridev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
 ![Mariana GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-santos-s2&show_icons=true&theme=radical)
 
